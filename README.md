@@ -1,2 +1,2 @@
-# weathericonsapp
+# WeatherIcons-App
 Created with CodeSandbox
